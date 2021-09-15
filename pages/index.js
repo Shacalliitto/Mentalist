@@ -26,23 +26,23 @@ function Chutar() {
 
   return (
     <>
-      <div class="container">
-        <h1 class="page-title">
+      <div className="container">
+        <h1 className="page-title">
           Mentalista
         </h1>
 
         <img src="https://www.alura.com.br/assets/img/imersoes/dev-2021/logo-imersao-mentalista.svg" class="page-logo" alt="" />
         
-        <p class="page-subtitle">
+        <p className="page-subtitle">
           Digite um número de 0 a 10
         </p>
         
-        <div class="chute">
-          <input class="input" type="number" id="valor" />
+        <div className="chute">
+          <input className="input" type="number" id="valor" />
           
-          <button class="btn" type="submit" onClick={Chutar}> Chutar </button>
+          <button className="btn" type="submit" onClick={Chutar}> Chutar </button>
           
-          <h2 class="resultado" id="resultado"></h2>
+          <h2 className="resultado" id="resultado"></h2>
         </div>
       </div>
     </>
