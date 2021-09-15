@@ -1,0 +1,59 @@
+body {
+  color: white;
+  font-family: "Montserrat";
+  background-color: #000000;
+  overflow: hidden;
+  height: 100vh;
+  background-size: cover;
+  background-image: url(https://media.istockphoto.com/photos/dark-black-and-blue-grungy-wall-background-for-display-or-montage-of-picture-id1150477705?k=20&m=1150477705&s=612x612&w=0&h=Yrqw1w6bEJ40kZFTSovkLtu4VE52zLgl-n6AE1t2BuM=);
+}
+.container {
+  text-align: center;
+  padding: 20px;
+  justify-content: center;
+  margin-top: 50px;
+  font-size: 3em;
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 16px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+input {
+  margin: 4px;
+  padding: 6px;
+  border-radius: 16px;
+  border: none;
+  text-align: center;
+}
+
+button {
+  border: none;
+  margin-top: 12px;
+  padding: 4px 8px;
+  border-radius: 16px;
+  background: #ffffff;
+}
+
+.resultado {
+  color: #ffffff;
+  text-align: center;
+  margin-top: 16px;
+}
