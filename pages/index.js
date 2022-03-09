@@ -31,7 +31,7 @@ function Chutar() {
           Mentalista
         </h1>
 
-        <Image src="https://www.alura.com.br/assets/img/imersoes/dev-2021/logo-imersao-mentalista.svg" className="page-logo" alt="" />
+        
         
         <p className="page-subtitle">
           Digite um número de 0 a 10
