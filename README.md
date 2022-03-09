@@ -1,4 +1,4 @@
-# Mentalista
+# [Mentalista](https://mentalist.vercel.app)
 
 "Mentalista" foi um dos projetos feitos durante a ImersãoDev da Alura, da qual participei. 
 
